@@ -2,6 +2,7 @@ x.y.z Release notes (yyyy-MM-dd)
 =============================================================
 ### Enhancements
 * MongoDB Realm is now supported when installing Realm via Swift Package Manager.
+* Added support for UUID data type
 
 ### Fixed
 * The user identifier was added to the file path for synchronized Realms twice
